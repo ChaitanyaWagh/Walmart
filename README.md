@@ -96,8 +96,3 @@ Based on the analysis findings, several recommendations can be made:
 
 ## Conclusion
 This analysis of customer purchase behavior at Walmart provides valuable insights into the spending patterns of different demographic groups. The findings highlight significant differences between genders and marital statuses, informing strategic decisions to enhance customer engagement and drive sales. By leveraging data-driven insights and statistical analysis, Walmart can optimize its marketing efforts and improve overall customer satisfaction.
-
-## References
-- Walmart Inc. Official Website
-- Data Science and Analytics Literature
-- Statistical Analysis Textbooks
